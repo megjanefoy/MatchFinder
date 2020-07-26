@@ -1,9 +1,6 @@
 /**************************************************************
   * Purpose: This program takes in a sorted array of integers
     and finds the number of matches for a given value.
-  * Author's Panther ID: 3276301
-  * Certification: I hereby certify that this work is my own
-    and none of it is the work of any other person.
  **************************************************************/
 
 public class MatchFinder{
